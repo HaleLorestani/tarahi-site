@@ -13,15 +13,7 @@
 		<img src="img/banner.jpg"/>
 	</div>
 
-	<div class = "menu">
-			<div class = "menu2">
-				<a href = "index.html">صفحه اصلی</a>
-				<a href = "news.html">آخرین اخبار</a>
-				<a href = "#">محصولات</a>
-				<a href = "about.html">تماس با ما</a>
-				
-			</div>
-		</div>
+	<?php include "parts/menu.php" ?>
 
 	
     <div class = "content">
@@ -35,10 +27,7 @@
     
     </div>
 
-
-	<div class = "footer">
-			<h2>تمامی حقوق متعلق به طراح سایت میباشد</h2>
-	</div>	
-
+	<?php include "parts/footer.php" ?>
+	
 </body>
 </html>
