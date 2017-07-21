@@ -1,0 +1,169 @@
+body {
+	font-family:b yekan;
+	direction:rtl;
+}
+.banner {
+	width:1000px;
+	height:205px;
+	background:#f5f6f6;
+	margin:0 auto;
+}
+
+	
+.menu {
+	width:1000px;
+	height:50px;
+	background:#93bf6f;
+	margin:0 auto;
+	margin-top:5px;
+	border:1px solid #d5d3d3;
+	box-shadow:0px 0px 3px 1px #8c8c8c;
+}
+.menu a {
+	float:right;
+	font-size:18px;
+	margin-left:20px;
+	text-decoration:none;
+	color:black;
+}
+
+.menu2 {margin-top:10px; margin-right:15px;}
+
+.slider {
+	width:1000px;
+	height:428px;
+	margin:0 auto;
+	margin-top:5px;
+	box-shadow:0px 0px 3px 1px #8c8c8c;
+}
+.content {
+	width:1000px;
+	height:400px;
+	margin:0 auto;
+	margin-top:5px;
+}
+.news {
+	width:310px;
+	height:400px;
+	background:#b2d694;
+	float:right;
+	border:1px solid #969696;
+	box-shadow:0px 0px 3px 1px #8c8c8c;
+}
+
+.lastnews{
+	width:100%;
+	height:95px;
+	border:1px solid grey;
+	border-radius:5px;
+	margin-top:10px;
+	box-shadow:0px 0px 3px 1px hsla(0,2%,63%,1.00);
+}
+
+.lastnews img{
+	float:right;
+	margin:10px;
+	margin-left:20px;
+}
+
+.lastnews h3{
+	text-align:right;
+	margin-top:10px;
+}
+
+.lastnews p{
+	text-align:right;
+	margin-top:-10px;
+}
+
+.lastnews a{
+	float:left;
+	margin-top:-35px;
+	margin-left:30px;
+}
+
+.heading {
+	text-align:center;
+	border-bottom:2px solid orange;
+	width:150px;
+	margin:0 auto;
+	margin-top:5px;
+	color:red;
+}
+.gallery {
+	width:364px;
+	height:400px;
+	background:#b2d694;
+	float:right;
+	margin-right:5px;
+	border:1px solid #969696;
+	box-shadow:0px 0px 3px 1px #8c8c8c;
+}
+
+.form {
+	width:310px;
+	height:400px;
+	background:#b2d694;
+	float:right;
+	margin-right:5px;
+	border:1px solid #969696;
+	box-shadow:0px 0px 3px 1px #8c8c8c;
+}
+
+.about{
+	text-align:center;
+	color:green;
+}
+
+.footer {
+	width:1000px;
+	height:100px;
+	background:#e0d782;
+	margin:0 auto;
+	margin-top:5px;
+	border:1px solid #969696;
+	box-shadow:0px 0px 3px 1px #8c8c8c;
+
+}
+.item {
+	width:100%;
+	height:70px;
+	margin-top:4px;
+	margin-right:10px;
+}
+.item img{
+	float:right;
+	margin-left:10px;
+}
+.item p {
+	text-align:right;
+}
+.gallery img{
+	margin-right:20px;
+	height:160px;
+	width:140px;
+}
+.gallery .item2
+{
+	margin-left:17px;	
+	margin-top:12px;
+	margin-right:10px;
+}
+.item3 {
+	width:100%;
+	height:300px;
+	margin:0 auto;
+	direction:rtl;
+}
+
+.item3 b {
+	float:right;
+}
+.input{float:left;}
+
+.footer h2{
+	text-align:center;
+	margin-top:35px;
+	color:black;
+	
+}
