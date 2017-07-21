@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<link rel = "stylesheet" type = " text/css" href = " style.css">
+<?php include "parts/head.php" ?>
 <meta charset="utf-8">
 <title>news</title>
 </head>
@@ -51,5 +51,6 @@
 
 
 	<?php include "parts/footer.php" ?>
+    <?php include "parts/script.php" ?>
 </body>
 </html>

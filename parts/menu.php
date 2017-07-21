@@ -4,6 +4,5 @@
 				<a href = "news.php">آخرین اخبار</a>
 				<a href = "">محصولات</a>
 				<a href = "about.php">تماس با ما</a>
-				
 			</div>
 		</div>
